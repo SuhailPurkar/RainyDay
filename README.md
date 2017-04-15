@@ -3,20 +3,11 @@
 A compact light weight weather app built with Android Studio.
 
 ## Demo
-The gif was recorded on a Android 5.1.1 KitKat device (API Level 22).
 
-[<img src="http://i.imgur.com/clgF17K.gif" width=200>](http://i.imgur.com/clgF17K.gif)
+This gif was recorded on a Android 7.0 Nougat device (API Level 25).
 
-## Screenshot
-[<img src="http://i.imgur.com/8kjGJI9.png" width=200>](http://i.imgur.com/8kjGJI9.png)
+[<img src="http://i.imgur.com/GLKYIAh.gif" width=200>](http://i.imgur.com/clgF17K.gif)
 
-### Open Weather Map API Key is required.
-
-In order for the Sunshine app to function properly as of October 18th, 2015 an API key for openweathermap.org must be included with the build.
-
-Keys can be obtained via the following [instructions](http://openweathermap.org/appid#use), and include the unique key for the build by adding the following line to [USER_HOME]/.gradle/gradle.properties
-
-`MyOpenWeatherMapApiKey="<UNIQUE_API_KEY">`
 
 ## License
 
